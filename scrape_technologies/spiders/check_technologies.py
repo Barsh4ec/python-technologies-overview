@@ -7,7 +7,7 @@ def check_technologies(description: str) -> list:
         result.append("Python")
     if any(key in description.lower() for key in ["django"]):
         result.append("Django")
-    if any(key in description.lower() for key in ["drf", "rest framework"]):
+    if any(key in description.lower() for key in ["drf", "rest framework", " api "]):
         result.append("DRF")
     if any(key in description.lower() for key in ["fastapi"]):
         result.append("FastAPI")
@@ -43,5 +43,7 @@ def check_technologies(description: str) -> list:
         result.append("Algorithms and data structures")
     if any(key in description.lower() for key in ["async"]):
         result.append("Asyncio")
+    if any(key in description.lower() for key in [" ml", "machine learning", "tensorflow", "keras"]):
+        result.append("ML")
 
     return result
