@@ -1,6 +1,3 @@
-from datetime import datetime
-
-
 def check_technologies(description: str) -> list:
     result = []
     if any(key in description.lower() for key in ["python", "python3"]):
