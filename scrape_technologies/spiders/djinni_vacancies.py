@@ -1,7 +1,7 @@
 import scrapy
 from scrapy.http import Response
 
-from .check_technologies import check_technologies
+from scrape_technologies.pull_technologies.check_technologies import check_technologies
 
 
 class BooksSpider(scrapy.Spider):

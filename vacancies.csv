@@ -1,103 +1,103 @@
 Title,Technologies,Rank
-Junior Strong Python Engineer,"Flask,Docker,FastAPI,NoSQL,Django,SQL,Python",Junior
-Junior+/Middle Python Developer,"Celery,AWS/Azure,Asyncio,DRF,Docker,Django,SQL,Python",Junior
-Odoo Developer (Middle/Senior),"Git,Docker,SQL,Python,HTML/CSS,JS",Middle
-Junior Python Development,"Flask,Git,Django,SQL,Python",Junior
-Junior Strong Python Engineer,"Flask,Docker,FastAPI,NoSQL,Django,SQL,Python",Junior
-Strong Junior/Middle Python Developer,"Flask,Django,Python,HTML/CSS,ORM,JS",Junior
-Python developer / strong junior,"AWS/Azure,DRF,Git,NoSQL,Django,SQL,Python",Junior
-Strong Junior Python Developer,"Git,Python",Junior
+Junior Python Development,"Python,Flask,Git,SQL,Django",Junior
+Strong Junior Python Developer,"Python,Git",Junior
+Python Developer (Strong Junior),"JS,Python,Flask,FastAPI,SQL,Linux,HTML/CSS,Django,Docker",Junior
+Strong Junior Python Developer,"JS,Python,Flask,FastAPI,Frontend,SQL,Linux,HTML/CSS,Django",Junior
+Strong Junior/Middle Python Developer,"JS,Python,ORM,Flask,HTML/CSS,Django",Junior
 Junior/Middle Python Engineer,"OOP/SOLID,Python",Junior
-Strong Junior Python Developer,"Flask,Frontend,FastAPI,Linux,Django,SQL,Python,HTML/CSS,JS",Junior
+Junior+/Middle Python Developer,"Python,Asyncio,DRF,SQL,AWS/Azure,Celery,Django,Docker",Junior
 Junior/Middle Python Engineer,"OOP/SOLID,Python",Junior
-Python Developer (Strong Junior),"Flask,Docker,FastAPI,Linux,Django,SQL,Python,HTML/CSS,JS",Junior
-Senior QA Manual/Automation (Python),"OOP/SOLID,AWS/Azure,DRF,Linux,SQL,Python",Senior
-Middle Python Developer,"Flask,OOP/SOLID,AWS/Azure,DRF,Docker,Django,SQL,Python,ORM",Middle
-Middle/Senior Full-Stack Developer (Django+React),"Frontend,Celery,Django,SQL,Python,HTML/CSS,JS",Middle
-Middle Python Software Engineer (CMS Team),"Frontend,Git,SQL,Python,JS",Middle
-Middle Python Developer,"Flask,OOP/SOLID,ML,Git,FastAPI,Django,Python",Middle
-"Strong Middle/ Senior Full Stack Developer (Python, React Native)","Frontend,Celery,AWS/Azure,Docker,FastAPI,Algorithms and data structures,SQL,Python,ORM",Middle
-Middle Python Developer,"Algorithms and data structures,OOP/SOLID,AWS/Azure,Python",Middle
-Middle Python Developer (with Next.js exp),"JS,Python",Middle
-Middle Python Developer,"Flask,Frontend,Docker,NoSQL,FastAPI,Linux,Django,SQL,Python,JS",Middle
-Senior Backend Engineer (Python),"Frontend,Celery,Asyncio,DRF,Git,Docker,FastAPI,Django,SQL,Python",Senior
+Junior Strong Python Engineer,"Python,Flask,FastAPI,SQL,NoSQL,Django,Docker",Junior
+Middle Python Developer,"Python,ORM,Flask,OOP/SOLID,DRF,SQL,AWS/Azure,Django,Docker",Middle
+Junior Strong Python Engineer,"Python,Flask,FastAPI,SQL,NoSQL,Django,Docker",Junior
 Middle/Senior Python developer,"JS,Python",Middle
-Middle Python Engineer,"Flask,Git,Python",Middle
-"Middle Python/Django developer, full stack as a plus (front preferable vue.js)","Frontend,DRF,Docker,Django,Python,JS",Middle
-Middle Full Stack (Django/React) Developer,"Frontend,Django,JS,Python",Middle
-Senior Backend Engineer,"OOP/SOLID,AWS/Azure,DRF,Git,Docker,Algorithms and data structures,Django,SQL,Python",Senior
-Senior Python/Django Engineer,"Frontend,Flask,AWS/Azure,DRF,Docker,FastAPI,Django,SQL,Python",Senior
-Senior Python Developer,"Frontend,AWS/Azure,Django,Python,JS",Senior
-Senior Python Backend Engineer,"OOP/SOLID,AWS/Azure,DRF,Docker,NoSQL,Linux,Django,SQL,Python",Senior
-Senior Full-stack (Python+React) developer,"Frontend,DRF,Django,Python,JS",Senior
-Senior Python Developer,"Flask,Celery,DRF,Docker,FastAPI,SQL,Python,ORM",Senior
-Senior Python Developer,"Flask,AWS/Azure,ML,Git,Docker,FastAPI,Django,SQL,Python",Senior
-Senior Python Developer,"Flask,Frontend,OOP/SOLID,AWS/Azure,Git,Docker,Django,SQL,Python,ORM",Senior
-Middle Python Developer,"Celery,AWS/Azure,Git,Django,Python",Middle
-Python Developer (Strong Middle/Senior),"Asyncio,Git,Docker,FastAPI,NoSQL,Linux,Django,SQL,Python",Middle
-Middle Python Engineer (BI),"Flask,Git,FastAPI,Algorithms and data structures,SQL,Python,ORM",Middle
-Middle to Senior Python Engineer,"Flask,OOP/SOLID,AWS/Azure,FastAPI,Django,SQL,Python,HTML/CSS,JS",Middle
-Middle Python Engineer для проєкту з нуля для трейдингу в криптобіржах,"DRF,ML,Python",Middle
-Middle Python Developer,"Celery,AWS/Azure,Asyncio,Docker,Django,SQL,Python",Middle
-Middle Python Engineer in UAV Product,"Asyncio,NoSQL,SQL,Python",Middle
-Middle Python Developer,"Flask,Celery,AWS/Azure,Linux,Networking,SQL,Python,HTML/CSS,ORM",Middle
-Middle Python Developer,"Docker,Python",Middle
-Middle Python Developer,"Celery,AWS/Azure,Asyncio,DRF,Docker,Django,SQL,Python",Middle
-Middle+ ML (Python developer) for a Swedish company,"Frontend,ML,Git,SQL,Python",Middle
-Middle Python Developer,"JS,SQL,Python,Linux",Middle
-Senior Python Engineer with Scraping,"Celery,AWS/Azure,Git,Docker,Algorithms and data structures,SQL,Python,ORM,JS",Senior
-Senior Python Developer Competency Lead,"OOP/SOLID,AWS/Azure,DRF,Docker,NoSQL,Linux,Django,SQL,Python",Senior
-Senior Python Developer,"AWS/Azure,Git,Docker,FastAPI,Django,SQL,Python,ORM",Senior
-Senior Python Developer,"OOP/SOLID,ML,Git,Docker,Algorithms and data structures,SQL,Python",Senior
-Middle Backend Developer,"SQL,Django,FastAPI,Python",Middle
+"Strong Middle/ Senior Full Stack Developer (Python, React Native)","Python,ORM,FastAPI,Algorithms,Frontend,SQL,AWS/Azure,Celery,Docker",Middle
+Middle/Senior Full-Stack Developer (Django+React),"JS,Python,Frontend,SQL,HTML/CSS,Celery,Django",Middle
+Senior Python Backend Engineer,"Python,OOP/SOLID,DRF,SQL,Linux,NoSQL,AWS/Azure,Django,Docker",Senior
+Senior QA Manual/Automation (Python),"Python,OOP/SOLID,DRF,SQL,Linux,AWS/Azure",Senior
+Python developer / strong junior,"Python,Git,DRF,SQL,NoSQL,AWS/Azure,Django",Junior
+Senior Python Developer,"JS,Python,Frontend,AWS/Azure,Django",Senior
+Senior Backend Engineer,"Python,OOP/SOLID,Algorithms,Git,DRF,SQL,AWS/Azure,Django,Docker",Senior
+Senior Python/Django Engineer,"Python,Flask,FastAPI,Frontend,DRF,SQL,AWS/Azure,Django,Docker",Senior
+Senior Python Developer,"Python,Flask,FastAPI,ML,Git,SQL,AWS/Azure,Django,Docker",Senior
+Senior Python Engineer (only Poland),"Python,ML,SQL,AWS/Azure,Celery,Django,Docker",Senior
+Senior Python Developer,"Python,ORM,Flask,FastAPI,DRF,SQL,Celery,Docker",Senior
+Middle Python Software Engineer (CMS Team),"JS,Python,Frontend,Git,SQL",Middle
+Middle Python Engineer для проєкту з нуля для трейдингу в криптобіржах,"ML,Python,DRF",Middle
+Middle Full Stack (Django/React) Developer,"JS,Python,Frontend,Django",Middle
+Middle Python Developer,"OOP/SOLID,Python,AWS/Azure,Algorithms",Middle
+Senior Backend Engineer (Python),"Python,Asyncio,FastAPI,Frontend,Git,DRF,SQL,Celery,Django,Docker",Senior
+Senior Full Stack Engineer (React/Vue+Python),"JS,Python,Flask,Frontend,Git,SQL,NoSQL,Celery,Django,Docker",Senior
+"Middle Python/Django developer, full stack as a plus (front preferable vue.js)","JS,Python,Frontend,DRF,Django,Docker",Middle
+Middle Python Developer,"Python,Git,AWS/Azure,Celery,Django",Middle
+Middle Python Developer,"SQL,Python,Linux,JS",Middle
+Middle to Senior Python Engineer,"JS,Python,Flask,FastAPI,OOP/SOLID,SQL,AWS/Azure,HTML/CSS,Django",Middle
+Middle+ ML (Python developer) for a Swedish company,"Python,ML,Frontend,Git,SQL",Middle
+Middle Python Developer,"Python,Asyncio,SQL,AWS/Azure,Celery,Django,Docker",Middle
+Middle Python Developer,"Python,Asyncio,DRF,SQL,AWS/Azure,Celery,Django,Docker",Middle
+Middle Python Engineer (BI),"Python,ORM,Flask,FastAPI,Algorithms,Git,SQL",Middle
+Middle Python Engineer in UAV Product,"SQL,Python,NoSQL,Asyncio",Middle
+Senior Python Developer,"Python,ORM,Flask,OOP/SOLID,Frontend,Git,SQL,AWS/Azure,Django,Docker",Senior
+Senior Python Developer,"Python,ORM,FastAPI,Git,SQL,AWS/Azure,Django,Docker",Senior
+Senior  Backend developer Python (with Rust Experience),"FastAPI,Python,Asyncio",Senior
+Senior Full-stack (Python+React) developer,"JS,Python,Frontend,DRF,Django",Senior
 Senior Python Software Engineer with Data Science experience (in Europe),"OOP/SOLID,Python",Senior
-Senior (AI ML) Developer,"Frontend,ML,Algorithms and data structures,Python,JS",Senior
-Senior Python Developer (short-term project),"Flask,OOP/SOLID,DRF,FastAPI,Django,Python",Senior
-Senior Software Engineer (Python),"Flask,Celery,Frontend,AWS/Azure,Asyncio,DRF,Git,Docker,Django,Python,JS",Senior
-Senior Data Scientist (Python),"Algorithms and data structures,ML,AWS/Azure,Python",Senior
-Python Developer (Senior OR Lead),"Flask,ML,Algorithms and data structures,Django,Python",Senior
-Senior Python Engineer (only Poland),"Celery,AWS/Azure,ML,Docker,Django,SQL,Python",Senior
-Middle/Senior Python/Django developer,"Celery,OOP/SOLID,DRF,Git,Docker,Django,SQL,Python",Middle
-Middle Python Developer,"Flask,OOP/SOLID,AWS/Azure,Docker,FastAPI,NoSQL,Django,SQL,Python",Middle
-Senior Full Stack Python Developer,"Frontend,AWS/Azure,Git,Django,Python,JS",Senior
-Senior Python Backend Developer,"AWS/Azure,Asyncio,Docker,Algorithms and data structures,Python",Senior
-Senior Full Stack Engineer (React/Vue+Python),"Flask,Celery,Frontend,Git,Docker,NoSQL,Django,SQL,Python,JS",Senior
-Middle+ Python Developer,"Celery,AWS/Azure,Asyncio,DRF,Docker,Django,SQL,Python",Middle
-Middle Python Engineer,"DRF,ML,Python",Middle
-Middle Python Developer (Automation Team),"Flask,OOP/SOLID,AWS/Azure,DRF,Git,Docker,NoSQL,Linux,Django,SQL,Python,Networking",Middle
-Middle Python Developer,"Flask,Celery,AWS/Azure,Asyncio,Docker,FastAPI,SQL,Python,ORM",Middle
-Senior Python Developer,"AWS/Azure,DRF,Git,FastAPI,Python",Senior
-Senior Python Developer (AdTech),"Frontend,AWS/Azure,SQL,Python,JS",Senior
-Middle/Senior Python/Spark developer for global product (audit and assurance company BIG FOUR),"Flask,AWS/Azure,Git,Docker,NoSQL,Linux,SQL,Python",Middle
-Middle Python Developer,"DRF,Docker,SQL,Python",Middle
-Middle Data Engineer,"OOP/SOLID,SQL,Python",Middle
-Reef Technologies Senior Python Backend Engineer,"Git,Django,Python,Linux",Senior
-Senior Python Developer,"Flask,OOP/SOLID,AWS/Azure,Git,Docker,FastAPI,NoSQL,Django,SQL,Python",Senior
-Senior Full-Stack Developer,"Frontend,OOP/SOLID,AWS/Azure,SQL,Python,HTML/CSS,JS",Senior
-Senior Python Engineer для проєкту з нуля для трейдингу в криптобіржах,"DRF,ML,Python",Senior
-"Senior DevOps Engineer 3+ years (Python, cloud) Israel working schedule","OOP/SOLID,NoSQL,Docker,SQL,Python",Senior
-Senior/Lead Python Software Engineer,"Frontend,DRF,Git,Docker,Django,SQL,Python,HTML/CSS,JS",Senior
-Senior Python Engineer (Integrations),"ML,DRF,Docker,FastAPI,NoSQL,Django,SQL,Python",Senior
-Senior  Backend developer Python (with Rust Experience),"Asyncio,FastAPI,Python",Senior
-Senior Python develoepr,"Frontend,Celery,AWS/Azure,DRF,Docker,Django,SQL,Python,ORM,JS",Senior
-Senior/Lead Django Developer(project work),"DRF,NoSQL,Django,SQL,Python",Senior
-Senior Python Developer (ADTECH),"Frontend,AWS/Azure,SQL,Python,JS",Senior
-Senior Full Stack Developer - US Web Dev Agency,"Frontend,AWS/Azure,DRF,Git,Django,SQL,Python,HTML/CSS,JS",Senior
-Senior Python Engineer,"DRF,ML,Python",Senior
-Senior Data Engineer (Fintech),"OOP/SOLID,NoSQL,Algorithms and data structures,SQL,Python",Senior
-Senior Full Stack Engineer (Python+React/Vue),"Flask,Celery,Frontend,Git,Docker,NoSQL,Django,SQL,Python,JS",Senior
-Senior Full-Stack Developer,"Frontend,DRF,Django,Python,JS",Senior
-Senior Python Developer (AI Domain),"Celery,OOP/SOLID,DRF,Algorithms and data structures,Django,SQL,Python",Senior
-Senior Delphi + Python Developer,"OOP/SOLID,NoSQL,SQL,Python",Senior
-Senior Python Backend Engineer (non-web development),"AWS/Azure,Asyncio,Docker,Algorithms and data structures,Python",Senior
-Senior Full-Stack Developer Developer (Python + VueJs),"Frontend,Celery,Git,Docker,NoSQL,Django,SQL,Python,JS",Senior
-Senior Full-Stack Engineer (Vue or React + Python),"Flask,Celery,Frontend,Git,Docker,NoSQL,Django,SQL,Python,JS",Senior
-"Senior FullStack Developer (Python + JavaScript), Financial Software Tools","Frontend,DRF,Algorithms and data structures,SQL,Python,HTML/CSS,JS",Senior
-Senior Python Developer,"OOP/SOLID,Docker,ML,Python",Senior
-Senior Python developer,"Flask,Celery,AWS/Azure,Asyncio,Git,Docker,FastAPI,SQL,Python,ORM",Senior
-Python Voice Application Developer Senior,"Git,Docker,Python,Linux",Senior
-"Senior FS developer (Python, Django, TS)","Frontend,AWS/Azure,DRF,Django,Python",Senior
-Senior QA Python Automation Engineer,"OOP/SOLID,DRF,Git,Linux,Python,Networking",Senior
-Senior Python Developer,"Flask,Celery,AWS/Azure,Asyncio,DRF,Docker,FastAPI,Django,SQL,Python,HTML/CSS,ORM,JS",Senior
-Senior Python Developer,"AWS/Azure,Asyncio,FastAPI,SQL,Python",Senior
-Senior Artificial Intelligence Consultant,"DRF,ML,Python",Senior
+Senior (AI ML) Developer,"JS,Python,ML,Algorithms,Frontend",Senior
+Senior Python Engineer with Scraping,"JS,Python,ORM,Algorithms,Git,SQL,AWS/Azure,Celery,Docker",Senior
+Senior Python Developer Competency Lead,"Python,OOP/SOLID,DRF,SQL,Linux,NoSQL,AWS/Azure,Django,Docker",Senior
+Senior Python Developer (short-term project),"Python,Flask,FastAPI,OOP/SOLID,DRF,Django",Senior
+Senior Python Developer,"Python,OOP/SOLID,Algorithms,ML,Git,SQL,Docker",Senior
+Python Developer (Senior OR Lead),"Python,Flask,ML,Algorithms,Django",Senior
+Senior Software Engineer (Python),"JS,Python,Asyncio,Flask,Frontend,Git,DRF,AWS/Azure,Celery,Django,Docker",Senior
+Senior Data Scientist (Python),"Algorithms,Python,AWS/Azure,ML",Senior
+Senior Python Backend Developer,"Python,Asyncio,Algorithms,AWS/Azure,Docker",Senior
+Senior Full Stack Python Developer,"JS,Python,Frontend,Git,AWS/Azure,Django",Senior
+Middle Python Developer,"Python,Docker",Middle
+Middle/Senior Python/Django developer,"Python,OOP/SOLID,Git,DRF,SQL,Celery,Django,Docker",Middle
+Middle Python Developer,"Python,Flask,FastAPI,OOP/SOLID,ML,Git,Django",Middle
+Middle Python Developer,"Python,Flask,FastAPI,OOP/SOLID,SQL,NoSQL,AWS/Azure,Django,Docker",Middle
+Middle Backend Developer,"FastAPI,Django,Python,SQL",Middle
+Middle Python Developer,"JS,Python,Flask,FastAPI,Frontend,SQL,Linux,NoSQL,Django,Docker",Middle
+Middle Python Engineer,"Python,Flask,Git",Middle
+Odoo Developer (Middle/Senior),"JS,Python,Git,SQL,HTML/CSS,Docker",Middle
+Middle Python Developer,"Python,ORM,Flask,Networking,SQL,Linux,AWS/Azure,HTML/CSS,Celery",Middle
+Middle Python Developer (Automation Team),"Python,Flask,OOP/SOLID,Networking,Git,DRF,SQL,Linux,NoSQL,AWS/Azure,Django,Docker",Middle
+Middle+ Python Developer,"Python,Asyncio,DRF,SQL,AWS/Azure,Celery,Django,Docker",Middle
+Middle Python Developer,"Python,ORM,Asyncio,Flask,FastAPI,SQL,AWS/Azure,Celery,Docker",Middle
+Middle Data Engineer,"SQL,Python,OOP/SOLID",Middle
+Middle Python Engineer,"ML,Python,DRF",Middle
+Middle Python Developer,"SQL,Python,Docker,DRF",Middle
+Middle/Senior Python/Spark developer for global product (audit and assurance company BIG FOUR),"Python,Flask,Git,SQL,Linux,NoSQL,AWS/Azure,Docker",Middle
+Senior Full Stack Developer - US Web Dev Agency,"JS,Python,Frontend,Git,DRF,SQL,AWS/Azure,HTML/CSS,Django",Senior
+Senior Python Developer (AdTech),"JS,Python,Frontend,SQL,AWS/Azure",Senior
+Senior Python Engineer для проєкту з нуля для трейдингу в криптобіржах,"ML,Python,DRF",Senior
+Senior Python Developer,"Python,Flask,FastAPI,OOP/SOLID,Git,SQL,NoSQL,AWS/Azure,Django,Docker",Senior
+Reef Technologies Senior Python Backend Engineer,"Python,Linux,Git,Django",Senior
+Senior Python Developer,"Python,FastAPI,Git,DRF,AWS/Azure",Senior
+Senior Full-Stack Developer,"JS,Python,OOP/SOLID,Frontend,SQL,AWS/Azure,HTML/CSS",Senior
+Senior Python Developer (ADTECH),"JS,Python,Frontend,SQL,AWS/Azure",Senior
+Senior/Lead Python Software Engineer,"JS,Python,Frontend,Git,DRF,SQL,HTML/CSS,Django,Docker",Senior
+"Senior DevOps Engineer 3+ years (Python, cloud) Israel working schedule","Python,OOP/SOLID,SQL,NoSQL,Docker",Senior
+Senior Python Engineer (Integrations),"Python,FastAPI,ML,DRF,SQL,NoSQL,Django,Docker",Senior
+Middle Python Developer,"Algorithms,Python",Middle
+Senior/Lead Django Developer(project work),"Python,DRF,SQL,NoSQL,Django",Senior
+Senior Python develoepr,"JS,Python,ORM,Frontend,DRF,SQL,AWS/Azure,Celery,Django,Docker",Senior
+"Senior FS developer (Python, Django, TS)","Python,Frontend,DRF,AWS/Azure,Django",Senior
+"Middle Python/Django developer, full stack as a plus (front preferable vue.js)","JS,Python,Frontend,DRF,Django,Docker",Middle
+Senior Full Stack Engineer (Python+React/Vue),"JS,Python,Flask,Frontend,Git,SQL,NoSQL,Celery,Django,Docker",Senior
+Senior QA Python Automation Engineer,"Python,OOP/SOLID,Networking,Git,DRF,Linux",Senior
+Senior Python Engineer,"ML,Python,DRF",Senior
+Python Voice Application Developer Senior,"Python,Linux,Git,Docker",Senior
+Senior Data Engineer (Fintech),"Python,OOP/SOLID,Algorithms,SQL,NoSQL",Senior
+Senior Python Backend Engineer (non-web development),"Python,Asyncio,Algorithms,AWS/Azure,Docker",Senior
+Senior Full-Stack Developer,"JS,Python,Frontend,DRF,Django",Senior
+Senior Python Developer (AI Domain),"Python,OOP/SOLID,Algorithms,DRF,SQL,Celery,Django",Senior
+Senior Delphi + Python Developer,"SQL,Python,NoSQL,OOP/SOLID",Senior
+Senior Python Developer,"OOP/SOLID,Python,ML,Docker",Senior
+Senior Full-Stack Developer Developer (Python + VueJs),"JS,Python,Frontend,Git,SQL,NoSQL,Celery,Django,Docker",Senior
+"Senior FullStack Developer (Python + JavaScript), Financial Software Tools","JS,Python,Algorithms,Frontend,DRF,SQL,HTML/CSS",Senior
+Senior Python developer,"Python,ORM,Asyncio,Flask,FastAPI,Git,SQL,AWS/Azure,Celery,Docker",Senior
+Senior Full-Stack Engineer (Vue or React + Python),"JS,Python,Flask,Frontend,Git,SQL,NoSQL,Celery,Django,Docker",Senior
+Senior Python Developer,"JS,Python,ORM,Asyncio,Flask,FastAPI,DRF,SQL,AWS/Azure,HTML/CSS,Celery,Django,Docker",Senior
+Senior Python Developer,"Python,Asyncio,FastAPI,SQL,AWS/Azure",Senior
+Senior Artificial Intelligence Consultant,"ML,Python,DRF",Senior

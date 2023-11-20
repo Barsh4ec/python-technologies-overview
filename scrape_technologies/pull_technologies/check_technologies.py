@@ -37,7 +37,7 @@ def check_technologies(description: str) -> list:
     if any(key in description.lower() for key in ["html", "css"]):
         result.append("HTML/CSS")
     if any(key in description.lower() for key in ["algorithm", "data structure"]):
-        result.append("Algorithms and data structures")
+        result.append("Algorithms")
     if any(key in description.lower() for key in ["async"]):
         result.append("Asyncio")
     if any(key in description.lower() for key in [" ml", "machine learning", "tensorflow", "keras"]):
